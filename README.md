@@ -19,6 +19,18 @@ This Reporitory is about the Python learning basics.
 
 <br>
 
-#### 
+#### Pandas: [Click Here](https://github.com/RutvijBhutaiya/Python-Learning/blob/master/Pandas.ipynb)
+
+- Introduction of Pandas Library on Iris datasets.
+
+<br>
+
+#### Numpy: [Click Here](https://github.com/RutvijBhutaiya/Python-Learning/blob/master/Numpy.ipynb)
+
+- Introduction of Numpy Library with Multi dimention example. 
+
+<br>
+
+
 
 
